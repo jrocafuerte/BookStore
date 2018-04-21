@@ -1,0 +1,42 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue"></script>
+    </head>
+    <body>
+        <main>
+            <!-- Ciclos ::  For -->
+            <table border="1" align="center">
+                <thead>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                </thead>
+                <tbody>
+                    <!-- Se asigna los valores de el Array en una variable con su respectivo indice -->
+                    <tr v-for="(item, idx) in users">
+                        <td>{{item.nombre}}</td>
+                        <td>{{item.apellido}}</td>
+                    </tr>
+                </tbody>
+
+            </table>
+            
+            {{ $data }}
+        </main>
+    </body>
+    <script type="text/javascript">
+
+        new Vue({
+            // Invocando una elemento por su Id 
+            //el:'#id'
+            // Invocando una Etqueta
+            el:'main',
+            data:{
+                users:[{'nombre':'Josue','apellido':'Rocafuerte'},
+                      {'nombre':'Zulay','apellido':'Morejon'},
+                      {'nombre':'Zulay','apellido':'Morejon De Rocafuerte'}]
+            }
+        });
+    
+    </script>
+</html>

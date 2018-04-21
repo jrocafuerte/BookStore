@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue"></script>
+    </head>
+    <body>
+        <main>
+            <!-- Condicionales en Tiempo de Ejecucion Vue JS -->
+            {{ $data }}
+            <input v-model="nota" />
+            <b v-if="nota && nota > 6 && nota <= 10 ">Aprobado</b>
+            <b v-else-if="nota &&  nota > 10 ">Superdotado</b>
+            <b v-else>Burro</b>
+        </main>
+    </body>
+    <script type="text/javascript">
+
+        new Vue({
+            // Invocando una elemento por su Id 
+            //el:'#id'
+            // Invocando una Etqueta
+            el:'main',
+            data:{
+                nota:'6'
+            }
+        });
+    
+    </script>
+</html>

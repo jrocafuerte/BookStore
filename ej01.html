@@ -1,0 +1,30 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue"></script>
+    </head>
+    <body>
+        <main>
+
+            <!-- Presentar variable de Js-->
+            <h1>{{ texto }}</h1>
+            <!-- Enlazar elementos de modelo Js-->
+            <input type="text" v-model="texto"/>
+            <!-- Imprimir todos los componentes de la variable -->
+            {{ $data }}
+        </main>
+    </body>
+    <script type="text/javascript">
+
+      new Vue({
+          // Invocando una elemento por su Id 
+          //el:'#id'
+          // Invocando una Etqueta
+          el:'main',
+          data:{
+              texto:'Hola mundo'
+          }
+      });
+    
+    </script>
+</html>
