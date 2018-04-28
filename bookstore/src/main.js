@@ -12,6 +12,11 @@ firebase.initializeApp(firebaseConfig);
 
 export const db = firebase.firestore();
 
+import i18n from '@/config/i18n';
+
+import store from '@/store';
+
+require('./config/vuetify');
 
 Vue.config.productionTip = false
 
@@ -19,6 +24,8 @@ Vue.config.productionTip = false
 new Vue({
   el: '#app',
   router,
+  i18n, // INTERNACIONALIZCIÓN DE IDIOMAS
+  store, // VUEX MANEJO DE VARIABLES GLOBALES
   components: { App },
   template: '<App/>'
 })
