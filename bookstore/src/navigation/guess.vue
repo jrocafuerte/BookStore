@@ -13,6 +13,7 @@
     <v-toolbar-items class="hidden-sm-and-down">
       <v-btn flat to="/Login">{{ $t('navigation.login')}}</v-btn>
       <v-btn flat to="/Register">{{ $t('navigation.register')}}</v-btn>
+      <v-btn flat to="/About">{{ $t('navigation.about')}}</v-btn>
       
     </v-toolbar-items>
   </v-toolbar>
@@ -60,6 +61,8 @@ export default{
           {title: 'Inicio', icon: 'home', to:'/' },
           {title: 'Login', icon: 'forward', to:'/Login' },
           {title: 'Register', icon: 'account_circle', to:'/Register' },
+          
+          
         ]
       }
     }

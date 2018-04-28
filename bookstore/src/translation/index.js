@@ -31,6 +31,7 @@ export default {
         login: 'Iniciar sesión',
         register: 'Registrarme',
         logout: 'Cerrar sesión',
+        about:'Acerca de',
         my_account: 'Mi cuenta',
         home: 'Inicio',
         shop: 'Tienda',
@@ -90,6 +91,12 @@ export default {
         select_image: 'Selecciona una imagen',
         remove: 'Eliminar',
         }
+        },
+        
+        personalInformation: {
+        name: 'Josue Rocafuerte',
+        age: '25',
+        hobby: 'Jugar Futbol'
         },
         shop: {
         more_info: 'Más información',

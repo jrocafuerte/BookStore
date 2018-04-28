@@ -3,6 +3,8 @@ import Vuex from 'vuex';
 
 Vue.use(Vuex);
 
+import AuthModule from '@/modules/auth';
+
 // Referente a un return
 export default new Vuex.Store({
  // Variables de estado
@@ -37,7 +39,7 @@ export default new Vuex.Store({
     },
     // Modulos que se manejaran dentro del proyecto
     modules:{
-
+        AuthModule
     }
 
 });
