@@ -1,3 +1,4 @@
+<!-- Siempre dentro de template debe tener solo un componente y dentro de el el resto de coponentes que sean-->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
@@ -86,6 +87,7 @@
 <script>
 export default {
   name: 'HelloWorld',
+  // Siempre por defecto va data
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -95,6 +97,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- Add "scoped" Cuando es un estilo personalizado -->
 <style scoped>
 h1, h2 {
   font-weight: normal;
