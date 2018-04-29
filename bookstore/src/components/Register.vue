@@ -17,7 +17,6 @@ export default {
                   uid: userRegistered.uid,
                   email: user.email,// userRegistered.email,
                   role: "customer"
-
               };
               db.collection('users')
               .doc(userRegistered.uid).set(data).then(()=>{

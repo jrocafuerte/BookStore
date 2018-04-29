@@ -92,11 +92,20 @@ export default {
         remove: 'Eliminar',
         }
         },
-        
         personalInformation: {
         name: 'Josue Rocafuerte',
-        age: '25',
+        age: '25 años',
+        mail: 'rocafuerte31@gmail.com',
+        profesion: 'Ingeniero en Sistemas',
         hobby: 'Jugar Futbol'
+        },
+        personalLabel: {
+        title: 'Información Personal',
+        name:'Nombre : ',
+        age: 'Edad : ',
+        mail: 'Email : ',
+        profesion: 'Profesión :',
+        hobby: 'Pasatiempo'
         },
         shop: {
         more_info: 'Más información',

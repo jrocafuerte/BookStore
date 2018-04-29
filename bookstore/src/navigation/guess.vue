@@ -11,9 +11,10 @@
     
     <v-spacer></v-spacer>
     <v-toolbar-items class="hidden-sm-and-down">
+      <v-btn flat to="/About">{{ $t('navigation.about')}}</v-btn>
       <v-btn flat to="/Login">{{ $t('navigation.login')}}</v-btn>
       <v-btn flat to="/Register">{{ $t('navigation.register')}}</v-btn>
-      <v-btn flat to="/About">{{ $t('navigation.about')}}</v-btn>
+      
       
     </v-toolbar-items>
   </v-toolbar>
@@ -56,7 +57,7 @@ export default{
     data(){
 
       return{
-        drawer:true,
+        drawer:false,
         items:[
           {title: 'Inicio', icon: 'home', to:'/' },
           {title: 'Login', icon: 'forward', to:'/Login' },
