@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-28T17:56:09.200Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rWUJF55RhGQb2kcWPyu_" version="21.6.6" type="github" pages="4">
+<mxfile modified="2023-08-28T18:02:15.179Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="amP-voeu-3GKBlj_1AWZ" version="21.6.6" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -657,8 +657,8 @@
             <mxPoint x="40" y="78.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DToAKb7VAllucjRwtdRz-10" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode&lt;/li&gt;&lt;li&gt;Qualys&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="95" width="210" height="70" as="geometry" />
+        <mxCell id="DToAKb7VAllucjRwtdRz-10" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode (Aprobación Manual)&lt;/li&gt;&lt;li&gt;Qualys (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="88" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-11" value="&lt;b&gt;Ingenieria de Software:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;SonarQube&lt;/li&gt;&lt;li&gt;Portal QA&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="210" height="70" as="geometry" />
@@ -696,11 +696,14 @@
         <mxCell id="DToAKb7VAllucjRwtdRz-18" value="&lt;b&gt;Administración y Control:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Diccionario de Datos&lt;/li&gt;&lt;li&gt;Matriz Técnica&lt;/li&gt;&lt;li&gt;Matriz Funcional&lt;/li&gt;&lt;li&gt;Verificación ChangeSet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="406" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DToAKb7VAllucjRwtdRz-19" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode&lt;/li&gt;&lt;li&gt;Qualys&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="90" width="210" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-20" value="&lt;b&gt;Arquitectura de Referencia (Versión 2.0)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="45" width="163" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-21" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode (Aprobación Manual)&lt;/li&gt;&lt;li&gt;Qualys (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298" y="86" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-22" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode (Aprobación Automatica en Pipeline - Confluence)&lt;/li&gt;&lt;li&gt;Qualys (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="89" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
