@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-28T18:02:15.179Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="amP-voeu-3GKBlj_1AWZ" version="21.6.6" type="github" pages="4">
+<mxfile modified="2023-08-28T19:56:32.133Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Avr5OXlUmCsmWXHiofcr" version="21.6.6" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -623,25 +623,25 @@
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="590" as="sourcePoint" />
+            <mxPoint x="280" y="720" as="sourcePoint" />
             <mxPoint x="280" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="590" as="sourcePoint" />
+            <mxPoint x="520" y="720" as="sourcePoint" />
             <mxPoint x="520" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="590" as="sourcePoint" />
+            <mxPoint x="40" y="722" as="sourcePoint" />
             <mxPoint x="40" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="590" as="sourcePoint" />
+            <mxPoint x="790" y="720" as="sourcePoint" />
             <mxPoint x="790" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -660,11 +660,11 @@
         <mxCell id="DToAKb7VAllucjRwtdRz-10" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode (Aprobación Manual)&lt;/li&gt;&lt;li&gt;Qualys (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="88" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DToAKb7VAllucjRwtdRz-11" value="&lt;b&gt;Ingenieria de Software:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;SonarQube&lt;/li&gt;&lt;li&gt;Portal QA&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="210" height="70" as="geometry" />
+        <mxCell id="DToAKb7VAllucjRwtdRz-11" value="&lt;b&gt;Ingenieria de Software:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;SonarQube (Escaneo Manual)&lt;/li&gt;&lt;li&gt;Portal QA (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="178" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-12" value="&lt;b&gt;Middleware:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Aprobación de OP via correo&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="248" width="200" height="70" as="geometry" />
+          <mxGeometry x="49" y="286" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -674,27 +674,27 @@
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="240" as="sourcePoint" />
-            <mxPoint x="40" y="240" as="targetPoint" />
+            <mxPoint x="790" y="279" as="sourcePoint" />
+            <mxPoint x="40" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="320" as="sourcePoint" />
-            <mxPoint x="40" y="320" as="targetPoint" />
+            <mxPoint x="790" y="373" as="sourcePoint" />
+            <mxPoint x="40" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-16" value="&lt;b&gt;Auditoria:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Aprobación Update/Delete/Insert Scripts&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="326" width="210" height="70" as="geometry" />
+          <mxGeometry x="50" y="380" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="398.57" as="sourcePoint" />
-            <mxPoint x="40" y="398.57" as="targetPoint" />
+            <mxPoint x="790" y="479.57" as="sourcePoint" />
+            <mxPoint x="40" y="479.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-18" value="&lt;b&gt;Administración y Control:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Diccionario de Datos&lt;/li&gt;&lt;li&gt;Matriz Técnica&lt;/li&gt;&lt;li&gt;Matriz Funcional&lt;/li&gt;&lt;li&gt;Verificación ChangeSet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="406" width="210" height="100" as="geometry" />
+          <mxGeometry x="50" y="490" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-20" value="&lt;b&gt;Arquitectura de Referencia (Versión 2.0)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="45" width="163" height="30" as="geometry" />
@@ -704,6 +704,24 @@
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-22" value="&lt;b&gt;Seguridad:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Veracode (Aprobación Automatica en Pipeline - Confluence)&lt;/li&gt;&lt;li&gt;Qualys (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="89" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-23" value="&lt;b&gt;Ingenieria de Software:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#0000ff&quot;&gt;SonarQube (Escaneo Automatico Pipeline)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Portal QA (Aprobación Manual)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="182" width="231" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-26" value="&lt;b&gt;Ingenieria de Software:&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#0000ff&quot;&gt;SonarQube (Escaneo Automatico Pipeline)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Portal QA&lt;font color=&quot;#ff0000&quot;&gt; (Se elemina con la automatización de reglas)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528" y="189" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-27" value="&lt;b&gt;Middleware:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Aprobación de OP via correo &lt;font color=&quot;#ff0000&quot;&gt;(Se elimina con la automatización del despliegue)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="297" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-29" value="&lt;b&gt;Middleware:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Aprobación de OP via correo &lt;font color=&quot;#ff0000&quot;&gt;(Se elimina con la automatización del despliegue)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="297" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-30" value="&lt;b&gt;Auditoria:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;No Aplica para arquitecturas de referencia ServerLess y Microservicio&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="390" width="222.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-31" value="&lt;b&gt;Auditoria:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;No Aplica para arquitecturas de referencia ServerLess y Microservicio&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="389" width="222.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
