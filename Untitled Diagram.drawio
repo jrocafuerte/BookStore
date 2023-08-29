@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-29T16:36:26.475Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CK6yaXVcSf47Siqgj19-" version="21.6.6" type="github" pages="4">
+<mxfile modified="2023-08-29T16:43:25.283Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_wz5yAKoGDy9Pf5AyXyJ" version="21.6.6" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -623,13 +623,13 @@
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="1230" as="sourcePoint" />
+            <mxPoint x="280" y="1020" as="sourcePoint" />
             <mxPoint x="280" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DToAKb7VAllucjRwtdRz-5" value="" style="endArrow=none;html=1;rounded=0;endSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="1230" as="sourcePoint" />
+            <mxPoint x="520" y="1020" as="sourcePoint" />
             <mxPoint x="520" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -759,8 +759,35 @@
         <mxCell id="DToAKb7VAllucjRwtdRz-46" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Aprobaciones y Documentación&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="20" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DToAKb7VAllucjRwtdRz-47" value="&lt;b&gt;Herramientas de Gestión de Proyectos:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="48.5" y="1030" width="230" height="170" as="geometry" />
+        <mxCell id="DToAKb7VAllucjRwtdRz-47" value="&lt;b&gt;Herramientas de Gestión de Proyectos:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Equipos Ágiles&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Jira/Confluence&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Equipos Tradicionales&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Rational Clear Quest&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="1070" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1060" as="sourcePoint" />
+            <mxPoint x="40" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-51" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Herramientas&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330.25" y="1026" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1060" as="sourcePoint" />
+            <mxPoint x="280" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="1060" as="sourcePoint" />
+            <mxPoint x="519" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-54" value="&lt;b&gt;Herramientas de Gestión de Proyectos:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Equipos Ágiles&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Jira/Confluence&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Equipos Tradicionales&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Rational Clear Quest&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Jira/Confluence Nuevas Iniciativas&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1069" width="230" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="DToAKb7VAllucjRwtdRz-55" value="&lt;b&gt;Herramientas de Gestión de Proyectos:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Equipos Ágiles&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Jira/Confluence&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Equipos Tradicionales&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Jira/Confluence Nuevas Iniciativas&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536.25" y="1069" width="230" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
