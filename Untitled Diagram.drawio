@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-23T16:29:38.230Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vD86sG0pkdDc8I4eft41" version="22.1.1" type="github" pages="9">
+<mxfile modified="2023-11-23T16:33:53.250Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TJXNAWlQIXlrCEvwvdm6" version="22.1.1" type="github" pages="9">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1401,19 +1401,19 @@
           <mxGeometry x="50" y="120" width="780" height="530" as="geometry" />
         </mxCell>
         <mxCell id="_JUviHyQqtuowMv2jcfU-18" value="CodeCommit&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Repositorios&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codecommit;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
-          <mxGeometry x="153" y="78" width="41" height="43" as="geometry" />
+          <mxGeometry x="127" y="61" width="41" height="43" as="geometry" />
         </mxCell>
         <mxCell id="_JUviHyQqtuowMv2jcfU-22" value="Elastic Container Registry&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Imagenes&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=#006600;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
-          <mxGeometry x="300" y="80" width="40" height="40" as="geometry" />
+          <mxGeometry x="257" y="64" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_JUviHyQqtuowMv2jcfU-24" value="&lt;font color=&quot;#ff0000&quot;&gt;Centralizados&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
-          <mxGeometry x="111" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="_JUviHyQqtuowMv2jcfU-24" value="&lt;font color=&quot;#ff0000&quot;&gt;Cross&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
+          <mxGeometry x="93" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_JUviHyQqtuowMv2jcfU-25" value="Parameter Store&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Parametros Desarrollo Team&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.parameter_store;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
-          <mxGeometry x="614" y="80" width="30" height="37" as="geometry" />
+        <mxCell id="_JUviHyQqtuowMv2jcfU-25" value="Parameter Store&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Parametros DevTeam&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.parameter_store;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
+          <mxGeometry x="527" y="67" width="30" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_JUviHyQqtuowMv2jcfU-21" value="CodeArtifact&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Dependencias&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_greengrass_artifact;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
-          <mxGeometry x="451" y="81" width="35.39" height="40" as="geometry" />
+          <mxGeometry x="388" y="64" width="35.39" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JUviHyQqtuowMv2jcfU-60" value="Pipeline Desarrollo&lt;br&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codepipeline;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="_JUviHyQqtuowMv2jcfU-1">
           <mxGeometry x="179" y="204" width="50" height="51" as="geometry" />
@@ -2104,6 +2104,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205.29999999999995" y="132.95179487179485" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bs76FEYriP544m-B4FdY-87" value="CloudWatch&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Logs&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="688" y="182" width="44" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
