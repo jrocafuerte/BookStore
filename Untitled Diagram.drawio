@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-23T15:51:53.742Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o_vy33nhucGHHrJmsNQw" version="22.1.1" type="github" pages="9">
+<mxfile modified="2023-11-23T16:02:29.330Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XW-RA1iiT5ZDSG02y1d8" version="22.1.1" type="github" pages="9">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2012,7 +2012,7 @@
         <mxCell id="bs76FEYriP544m-B4FdY-64" value="Code build&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Veracode&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codebuild;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="bs76FEYriP544m-B4FdY-21">
           <mxGeometry x="336" y="122" width="48" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="bs76FEYriP544m-B4FdY-82" value="&lt;font color=&quot;#ff0000&quot;&gt;QA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bs76FEYriP544m-B4FdY-21">
+        <mxCell id="bs76FEYriP544m-B4FdY-82" value="&lt;font color=&quot;#0000ff&quot;&gt;QA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bs76FEYriP544m-B4FdY-21">
           <mxGeometry x="279" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bs76FEYriP544m-B4FdY-35" value="Code Pipeline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codepipeline;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="bs76FEYriP544m-B4FdY-20">
