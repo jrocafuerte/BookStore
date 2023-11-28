@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-28T21:36:15.580Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WcsJ1S-QhQ6yThgbAlnB" version="22.1.4" type="github" pages="10">
+<mxfile modified="2023-11-28T21:38:46.549Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0WO_XEtqHd_lp1eewCOZ" version="22.1.4" type="github" pages="10">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2681,11 +2681,11 @@
             <mxPoint x="147" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6s7-ymhnWjtilkKd6vDS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6s7-ymhnWjtilkKd6vDS-9" target="6s7-ymhnWjtilkKd6vDS-19">
+        <mxCell id="6s7-ymhnWjtilkKd6vDS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6s7-ymhnWjtilkKd6vDS-9" target="6s7-ymhnWjtilkKd6vDS-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="1127" />
-              <mxPoint x="900" y="955" />
+              <mxPoint x="900" y="1128" />
+              <mxPoint x="900" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
