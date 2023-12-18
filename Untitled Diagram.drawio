@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-18T15:00:35.051Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FRccMiVJbf1p-tnSyxjn" version="22.1.7" type="github" pages="11">
+<mxfile modified="2023-12-18T18:24:20.040Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="er1N6Hdr5L39kUBJV2iA" version="22.1.7" type="github" pages="11">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="2514" dy="1366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2772,13 +2772,13 @@
           <mxGeometry x="1000" y="1620" width="370" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="3WP_hbpKGMU7HqipLjVy-2" value="Openshift" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="1670" width="50" height="46" as="geometry" />
+          <mxGeometry x="1080" y="1669.75" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3WP_hbpKGMU7HqipLjVy-3" value="On-Premise&amp;nbsp; -&amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;Producción&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1902.25" width="370" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="3WP_hbpKGMU7HqipLjVy-4" value="Openshift" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1954" width="50" height="46" as="geometry" />
+          <mxGeometry x="1090" y="1952" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3WP_hbpKGMU7HqipLjVy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1roChSqhGxqA-vbISk2L-8" target="3WP_hbpKGMU7HqipLjVy-1">
           <mxGeometry relative="1" as="geometry">
