@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-01T15:53:01.704Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VmX2sawSXmnmrcIsmTaF" version="23.1.0" type="github" pages="13">
+<mxfile modified="2024-02-01T16:01:03.691Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7sLN2sPxGj1hHmCm16RH" version="23.1.0" type="github" pages="13">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3223,8 +3223,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eR5tL1f2Xr1F4YUUsETP-2" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;Ambiente Desarrollo&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="41" y="79" width="370" height="360" as="geometry" />
+        <mxCell id="eR5tL1f2Xr1F4YUUsETP-2" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;Ambiente Desarrollo - Dev Team&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="79" width="359" height="360" as="geometry" />
         </mxCell>
         <mxCell id="eR5tL1f2Xr1F4YUUsETP-3" value="" style="endArrow=none;html=1;rounded=0;startSize=0;strokeWidth=2;" edge="1" parent="eR5tL1f2Xr1F4YUUsETP-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3586,6 +3586,397 @@
             <Array as="points">
               <mxPoint x="1000" y="281" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--2" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;Ambiente Desarrollo - Devops&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="520" width="359" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--3" value="" style="endArrow=none;html=1;rounded=0;startSize=0;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="308" as="sourcePoint" />
+            <mxPoint x="40" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="308" as="sourcePoint" />
+            <mxPoint x="160" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--5" value="main" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--4">
+          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="262" as="sourcePoint" />
+            <mxPoint x="160" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--7" value="release" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--6">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;jumpSize=6;startSize=1;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="218" as="sourcePoint" />
+            <mxPoint x="160" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--9" value="develop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--8">
+          <mxGeometry x="-0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--10" value="&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;Code Commit&lt;/font&gt;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codecommit;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry x="26" y="129" width="40" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--11" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Pipeline Dev&lt;/font&gt;&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry x="257" y="208" width="35.29" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="217.5" as="sourcePoint" />
+            <mxPoint x="250" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--13" value="&lt;font color=&quot;#ff0000&quot;&gt;Commit&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--12">
+          <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--14" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Pipeline Pre&lt;/font&gt;&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry x="257" y="253" width="35.29" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="262.5" as="sourcePoint" />
+            <mxPoint x="250" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--16" value="&lt;font color=&quot;#ff0000&quot;&gt;Commit&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--15">
+          <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--17" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Pipeline Pro&lt;/font&gt;&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry x="257" y="299" width="35.29" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="308.5" as="sourcePoint" />
+            <mxPoint x="250" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--19" value="&lt;font color=&quot;#ff0000&quot;&gt;Commit&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--18">
+          <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--20" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="131" as="sourcePoint" />
+            <mxPoint x="320" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--21" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="ZIgr0BAGCdpc3D1nNHc--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292.28999999999996" y="262" as="sourcePoint" />
+            <mxPoint x="320" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--24" target="ZIgr0BAGCdpc3D1nNHc--25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="690" />
+              <mxPoint x="571" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;dashed=1;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--24" target="ZIgr0BAGCdpc3D1nNHc--34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="700" />
+              <mxPoint x="571" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--24" value="Firewall" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="1">
+          <mxGeometry x="516" y="631" width="47.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--25" value="On-Premise&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;Desarrollo&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="522" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--26" value="Openshift" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="631" y="595" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--27" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="737.83" y="561" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--28" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="749" y="602" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--29" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="737.83" y="645" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="619.5" as="sourcePoint" />
+            <mxPoint x="746" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="682" y="576" as="sourcePoint" />
+            <mxPoint x="732" y="575.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="661" as="sourcePoint" />
+            <mxPoint x="731" y="660.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="660" as="sourcePoint" />
+            <mxPoint x="681" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--34" value="On-Premise&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;Produccion&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="720" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--35" value="Openshift" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="631" y="795" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--36" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="736" y="761" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--37" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="749" y="802" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--38" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="738" y="845" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="819.5" as="sourcePoint" />
+            <mxPoint x="746" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="682" y="776" as="sourcePoint" />
+            <mxPoint x="732" y="775.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="861" as="sourcePoint" />
+            <mxPoint x="731" y="860.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="860" as="sourcePoint" />
+            <mxPoint x="681" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="661" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="829" />
+              <mxPoint x="391" y="790" />
+              <mxPoint x="490" y="790" />
+              <mxPoint x="490" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;dashed=1;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--11" target="ZIgr0BAGCdpc3D1nNHc--24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="316" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--45" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="480" as="sourcePoint" />
+            <mxPoint x="811" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--47" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 13px;&quot;&gt;Esquema Centralizado Cuenta bb-devops&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--45">
+          <mxGeometry x="0.0661" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--48" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;bb-devops&lt;/b&gt;&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="619" width="220" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--49" value="Pipeline Dev" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--48">
+          <mxGeometry x="130" y="55" width="39" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--50" value="Pipeline Pro" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="ZIgr0BAGCdpc3D1nNHc--48">
+          <mxGeometry x="40" y="53" width="39" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--51" value="On-Premise&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;Desarrollo&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="599" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--52" value="Openshift" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1283" y="674" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--53" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1388" y="640" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--54" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1401" y="681" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--55" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1390" y="724" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316" y="698.5" as="sourcePoint" />
+            <mxPoint x="1398" y="699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1334" y="655" as="sourcePoint" />
+            <mxPoint x="1384" y="654.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1333" y="740" as="sourcePoint" />
+            <mxPoint x="1383" y="739.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1333" y="739" as="sourcePoint" />
+            <mxPoint x="1333" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--62" target="ZIgr0BAGCdpc3D1nNHc--65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--62" target="ZIgr0BAGCdpc3D1nNHc--70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--62" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1067" y="800" width="60" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--63" value="&lt;u&gt;Subnet:&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;MID =&amp;gt; DESA&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;APP =&amp;gt; PROD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="770" width="90" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--65" target="ZIgr0BAGCdpc3D1nNHc--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--65" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;bb-sandbox&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="860" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.39;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" target="ZIgr0BAGCdpc3D1nNHc--62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--68" target="ZIgr0BAGCdpc3D1nNHc--51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="803" />
+              <mxPoint x="1470" y="810" />
+              <mxPoint x="1350" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--68" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="786" width="60" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--70" target="ZIgr0BAGCdpc3D1nNHc--81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--70" value="AWS Cloud - &lt;font color=&quot;#ff0000&quot;&gt;bb-sharedService&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="950" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--71" value="On-Premise&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;Produccion&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="601" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--72" value="Openshift" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="676" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--73" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1620" y="642" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--74" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1633" y="683" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--75" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1622" y="726" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1548" y="700.5" as="sourcePoint" />
+            <mxPoint x="1630" y="701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1566" y="657" as="sourcePoint" />
+            <mxPoint x="1616" y="656.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565" y="742" as="sourcePoint" />
+            <mxPoint x="1615" y="741.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565" y="741" as="sourcePoint" />
+            <mxPoint x="1565" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="ZIgr0BAGCdpc3D1nNHc--81" target="ZIgr0BAGCdpc3D1nNHc--71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--81" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="963" width="60" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="720" as="sourcePoint" />
+            <mxPoint x="1067" y="821" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--84" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="927" y="522" as="sourcePoint" />
+            <mxPoint x="1698" y="522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIgr0BAGCdpc3D1nNHc--85" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 13px;&quot;&gt;Esquema Centralizado Cuenta bb-devops&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZIgr0BAGCdpc3D1nNHc--84">
+          <mxGeometry x="0.0661" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
