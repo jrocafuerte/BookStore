@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-02T13:11:36.545Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qyZ6LIP0rH1v4eB6qqrA" version="23.1.0" type="github" pages="13">
+<mxfile modified="2024-02-02T17:03:51.345Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uTLAwk1mKkK8ccpnFVIa" version="23.1.0" type="github" pages="13">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1277,7 +1277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-Si7xPZRfYFHu1zw4xsW" name="Page-7">
-    <mxGraphModel dx="2200" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3219,7 +3219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9TOgakqno30Gv3fi_rOn" name="On-Premise">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3526,7 +3526,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eR5tL1f2Xr1F4YUUsETP-83" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="246" width="60" height="33" as="geometry" />
+          <mxGeometry x="1315" y="246" width="60" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eR5tL1f2Xr1F4YUUsETP-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#0000FF;" edge="1" parent="1" source="eR5tL1f2Xr1F4YUUsETP-86" target="eR5tL1f2Xr1F4YUUsETP-97">
           <mxGeometry relative="1" as="geometry" />
@@ -3535,7 +3535,7 @@
           <mxGeometry x="1221" y="410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eR5tL1f2Xr1F4YUUsETP-88" value="On-Premise&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;Produccion&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="44" width="210" height="160" as="geometry" />
+          <mxGeometry x="1485" y="54" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="eR5tL1f2Xr1F4YUUsETP-89" value="Openshift" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1515" y="119" width="28.000000000000004" height="50" as="geometry" />
