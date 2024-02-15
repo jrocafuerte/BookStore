@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-14T16:28:47.890Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-yFXias2_pFcFOsmvaqZ" version="23.1.0" type="github" pages="13">
+<mxfile modified="2024-02-15T14:09:58.133Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="AFnVUM3fnd4RkxiT1GgX" version="23.1.0" type="github" pages="13">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4227,8 +4227,8 @@
         <mxCell id="c_cB3dAjxLm2y2YGhoM3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_cB3dAjxLm2y2YGhoM3-24" target="c_cB3dAjxLm2y2YGhoM3-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_cB3dAjxLm2y2YGhoM3-24" value="&lt;b&gt;Grupo Interno de Usuario en OCP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="404" y="2630" width="100" height="30" as="geometry" />
+        <mxCell id="c_cB3dAjxLm2y2YGhoM3-24" value="&lt;b&gt;Grupo Interno de Usuarios en OCP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="2630" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c_cB3dAjxLm2y2YGhoM3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_cB3dAjxLm2y2YGhoM3-27" target="c_cB3dAjxLm2y2YGhoM3-28">
           <mxGeometry relative="1" as="geometry" />
