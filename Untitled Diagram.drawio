@@ -1,4 +1,4 @@
-<mxfile modified="2024-04-18T18:12:22.062Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oVytpj58unYcRztmWSky" version="24.2.3" type="github" pages="19">
+<mxfile modified="2024-04-18T18:22:02.891Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4mYxWKSm4ehhYPkydaHn" version="24.2.3" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4949,8 +4949,8 @@
         <mxCell id="YN0l6u1GIHYoe90sNz8E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-2" target="YN0l6u1GIHYoe90sNz8E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YN0l6u1GIHYoe90sNz8E-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mercado Natural&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="239" width="120" height="40" as="geometry" />
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Mercado Natural&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="239" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-3" target="YN0l6u1GIHYoe90sNz8E-9">
           <mxGeometry relative="1" as="geometry" />
@@ -4958,8 +4958,8 @@
         <mxCell id="YN0l6u1GIHYoe90sNz8E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-3" target="YN0l6u1GIHYoe90sNz8E-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YN0l6u1GIHYoe90sNz8E-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Carga Masiva&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="439" width="120" height="40" as="geometry" />
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Carga Masiva&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="439" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-4" target="YN0l6u1GIHYoe90sNz8E-13">
           <mxGeometry relative="1" as="geometry" />
@@ -4995,6 +4995,9 @@
         <mxCell id="YN0l6u1GIHYoe90sNz8E-10" value="NO CLIENTE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="479" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#007FFF;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-13" target="YN0l6u1GIHYoe90sNz8E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-13" value="MODELO PREDICTIVO ANALITICA" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="220" height="39" as="geometry" />
         </mxCell>
@@ -5005,6 +5008,9 @@
           <mxGeometry x="600" y="239" width="220" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-6" target="YN0l6u1GIHYoe90sNz8E-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;" edge="1" parent="1" source="YN0l6u1GIHYoe90sNz8E-19" target="YN0l6u1GIHYoe90sNz8E-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-19" value="PROCESO BATCH DE PRECALIFICADOS INTERNOS/EXTERNOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -5033,24 +5039,21 @@
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="519" as="sourcePoint" />
-            <mxPoint x="840" y="79" as="targetPoint" />
+            <mxPoint x="842" y="519" as="sourcePoint" />
+            <mxPoint x="842" y="79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YN0l6u1GIHYoe90sNz8E-28" value="ANALITICA DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="922" y="160" width="180" height="39" as="geometry" />
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-28" value="ANALITICA DE DATOS&lt;div&gt;(Yeltsin Castro)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="921" y="160" width="180" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YN0l6u1GIHYoe90sNz8E-29" value="&lt;b&gt;GRUPO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="91" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YN0l6u1GIHYoe90sNz8E-30" value="RIESGO DE NEGOCIO" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="922.5" y="239" width="180" height="39" as="geometry" />
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-30" value="RIESGO DE NEGOCIO&lt;div&gt;(Martha Proaño)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="920.5" y="239" width="180" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="YN0l6u1GIHYoe90sNz8E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="819.5" y="179" as="sourcePoint" />
-            <mxPoint x="922.5" y="179" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="YN0l6u1GIHYoe90sNz8E-33" value="BPM&lt;div&gt;(Victor Peñafiel)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="440" width="180" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
