@@ -1,4 +1,4 @@
-<mxfile modified="2024-04-26T21:26:51.717Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="K6pdd2GhQ8iEjQ_XZpyd" version="24.3.0" type="github" pages="19">
+<mxfile modified="2024-04-26T21:28:37.501Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CrOfrKjU5W8Kdj6yVDRf" version="24.3.0" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5229,6 +5229,9 @@
         <mxCell id="Mb34ahw4yZ6lErY9MOXu-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/006_-_Image-128.png" vertex="1" parent="1">
           <mxGeometry x="1034" y="819.5" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mb34ahw4yZ6lErY9MOXu-4" target="7gcU8kcX3HJ0-VdrI_PF-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mb34ahw4yZ6lErY9MOXu-4" value="&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider ee bge bci brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr brs brt bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg bsh bsi&quot;&gt;Servcios de Facephi (Existe)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;imagenbiometrico =&amp;gt; Captura imagen Selfie&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;imagendocumento =&amp;gt; Captura Foto Cedula&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;liveness&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&amp;gt; Prueba de Vida&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="1003" width="262" height="120" as="geometry" />
         </mxCell>
@@ -5454,6 +5457,9 @@
         </mxCell>
         <mxCell id="7gcU8kcX3HJ0-VdrI_PF-66" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="1195" width="20" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-69" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1051" width="20" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
