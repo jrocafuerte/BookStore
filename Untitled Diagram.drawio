@@ -1,4 +1,4 @@
-<mxfile modified="2024-04-26T20:03:11.873Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F-3IcXfWnHDwXMg2FRJ4" version="24.3.0" type="github" pages="19">
+<mxfile modified="2024-04-26T20:44:00.618Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Y0RPNakZS-CIieMbkPjU" version="24.3.0" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5399,6 +5399,21 @@
         </mxCell>
         <mxCell id="7gcU8kcX3HJ0-VdrI_PF-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="2921" y="873" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-48" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider ee bge bci brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr brs brt bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg bsh bsi&quot;&gt;creaTarjeta&amp;nbsp;&lt;/span&gt;=&amp;gt; Bus (Existe) =&amp;gt; &lt;font color=&quot;#007fff&quot;&gt;Migrar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1093" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-49" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
+          <mxGeometry x="1957.74" y="1064" width="28.26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-50" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1986" y="1064" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-51" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1813.83" y="1063" width="29.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="7gcU8kcX3HJ0-VdrI_PF-52" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1067" width="21" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
