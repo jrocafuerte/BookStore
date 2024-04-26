@@ -1,4 +1,4 @@
-<mxfile modified="2024-04-26T20:44:00.618Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Y0RPNakZS-CIieMbkPjU" version="24.3.0" type="github" pages="19">
+<mxfile modified="2024-04-26T21:05:41.797Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JUUGYZ7gHvK63Xuz7IxH" version="24.3.0" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5341,7 +5341,7 @@
           <mxGeometry x="2191" y="761.6999999999999" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7gcU8kcX3HJ0-VdrI_PF-12" value="MUESTRA CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FA7D00;" vertex="1" parent="1">
-          <mxGeometry x="2203" y="797.1999999999999" width="120" height="45.2" as="geometry" />
+          <mxGeometry x="2198" y="815.9" width="120" height="45.2" as="geometry" />
         </mxCell>
         <mxCell id="7gcU8kcX3HJ0-VdrI_PF-15" value="&lt;ul&gt;&lt;li&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider ee bge bci brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr brs brt bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg bsh bsi&quot;&gt;FirmaElectronica&amp;nbsp;&lt;/span&gt;=&amp;gt; (Existe)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2150" y="1003" width="240" height="40" as="geometry" />
