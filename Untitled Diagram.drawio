@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-01T19:11:13.012Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bsiN4q_ZIsHazvb9xxg1" version="24.3.1" type="github" pages="19">
+<mxfile modified="2024-05-01T19:42:16.407Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5tsnkOvwqoNNKVciSQkO" version="24.3.1" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5581,6 +5581,18 @@
         </mxCell>
         <mxCell id="SGjHNoLvYPUTvGXmod1s-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PENDING DEFINITION OF INTERATIONS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1136" y="690" width="414" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SGjHNoLvYPUTvGXmod1s-22" value="MSO_CLIENTE" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Azure_Red_Hat_OpenShift.svg;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1020" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="SGjHNoLvYPUTvGXmod1s-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1218" y="1170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SGjHNoLvYPUTvGXmod1s-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="SGjHNoLvYPUTvGXmod1s-26">
+          <mxGeometry x="-1" width="25" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SGjHNoLvYPUTvGXmod1s-25" value="SYBASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SGjHNoLvYPUTvGXmod1s-26">
+          <mxGeometry y="37.5" width="30" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
