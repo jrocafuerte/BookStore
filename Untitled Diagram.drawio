@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-07T17:14:54.462Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7z833LRloKqEypEXShye" version="24.3.1" type="github" pages="19">
+<mxfile modified="2024-05-07T19:16:09.977Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fivpr2bO-8NeAZFpDeKv" version="24.3.1" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wImyJZAKMztXPAib9uTV" name="Desacoplamiento - APIS">
-    <mxGraphModel dx="1876" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5721,6 +5721,15 @@
         </mxCell>
         <mxCell id="IqKTLuF0ZU-2vBkcPPKE-5" value="&lt;b&gt;Credimatic&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="IqKTLuF0ZU-2vBkcPPKE-8" vertex="1">
           <mxGeometry y="40.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9A1qUoaf9GfjPLeIzqE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4ajQK10icw-2phRb1Rex-4" target="IqKTLuF0ZU-2vBkcPPKE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1505" y="1200" />
+              <mxPoint x="1730" y="1200" />
+              <mxPoint x="1730" y="1220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
