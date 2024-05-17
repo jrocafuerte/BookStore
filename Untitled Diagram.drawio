@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-15T21:23:22.720Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PoW3Sjs51W3_7T3YbHe0" version="24.4.0" type="github" pages="19">
+<mxfile modified="2024-05-17T15:16:54.043Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2xgC6l9m6WK-xbcdXoKs" version="24.4.0" type="github" pages="19">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4936,7 +4936,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5C-HQHV34FHBwe81-Y4r" name="TarjetaCredito">
-    <mxGraphModel dx="4290" dy="2897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wImyJZAKMztXPAib9uTV" name="Desacoplamiento - APIS">
-    <mxGraphModel dx="1214" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5649,7 +5649,7 @@
         <mxCell id="vXMnvt_0CkkW7_ws6EBy-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;n...........&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1210.5" y="895" width="24" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vXMnvt_0CkkW7_ws6EBy-22" value="&lt;font color=&quot;#ff0000&quot;&gt;MSC_CLIENTE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vXMnvt_0CkkW7_ws6EBy-22" value="&lt;font style=&quot;background-color: rgb(255, 255, 0);&quot; color=&quot;#ff0000&quot;&gt;MSC_CLIENTE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1057" y="784" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vXMnvt_0CkkW7_ws6EBy-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0000FF;" parent="1" vertex="1">
@@ -5658,7 +5658,7 @@
         <mxCell id="4ajQK10icw-2phRb1Rex-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;crearTarjeta&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1469" y="832" width="24" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vXMnvt_0CkkW7_ws6EBy-27" value="&lt;font color=&quot;#ff0000&quot;&gt;MSC-TARJETA-CREDITO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vXMnvt_0CkkW7_ws6EBy-27" value="&lt;font style=&quot;background-color: rgb(255, 255, 0);&quot; color=&quot;#ff0000&quot;&gt;MSC-TARJETA-CREDITO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1419" y="784" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vXMnvt_0CkkW7_ws6EBy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vXMnvt_0CkkW7_ws6EBy-28" target="vXMnvt_0CkkW7_ws6EBy-25" edge="1">
