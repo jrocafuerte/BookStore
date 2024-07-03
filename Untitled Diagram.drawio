@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-03T18:24:46.885Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xnhQNzd9zg_BH7wum64G" version="24.4.0" type="github" pages="20">
+<mxfile modified="2024-07-03T21:45:47.589Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CKl2vTCM-4GLnXf1tELC" version="24.4.0" type="github" pages="20">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5758,6 +5758,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLMZ__4eKcAPEfgz2nnN-1" target="xLMZ__4eKcAPEfgz2nnN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-1" value="Preparar Archivo de Usuarios&amp;nbsp;&lt;div&gt;a Pre-Aprobar&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLMZ__4eKcAPEfgz2nnN-2" target="xLMZ__4eKcAPEfgz2nnN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-2" value="Cargar a BPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLMZ__4eKcAPEfgz2nnN-3" target="xLMZ__4eKcAPEfgz2nnN-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="160" />
+              <mxPoint x="140" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-3" value="Forzar Proceso de Despacho de Archivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLMZ__4eKcAPEfgz2nnN-6" target="xLMZ__4eKcAPEfgz2nnN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-6" value="Enviar a Buro&lt;div&gt;Seleccionar Campaña&lt;/div&gt;&lt;div&gt;Seleccionar Modelo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLMZ__4eKcAPEfgz2nnN-7" target="xLMZ__4eKcAPEfgz2nnN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-7" value="&lt;div&gt;Modificar Archivo de Buro de Recibidos (Simula Respuesta Equifax)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-10" value="&lt;div&gt;Colocar en Buro de Recibidos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
