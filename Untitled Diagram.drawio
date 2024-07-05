@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-03T21:45:47.589Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CKl2vTCM-4GLnXf1tELC" version="24.4.0" type="github" pages="20">
+<mxfile modified="2024-07-05T15:01:19.673Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uyyVlr6F1dkpFpXdMcLc" version="24.4.0" type="github" pages="20">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5795,6 +5795,42 @@
         </mxCell>
         <mxCell id="xLMZ__4eKcAPEfgz2nnN-10" value="&lt;div&gt;Colocar en Buro de Recibidos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0000FF;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="40" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-16" value="&lt;font color=&quot;#ff0000&quot;&gt;Ma. Daniela&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o Xavier&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-19" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0000FF;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="472" y="8.5" width="40" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-20" value="&lt;font color=&quot;#ff0000&quot;&gt;Ma. Daniela&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o Xavier&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338" y="8.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0000FF;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="466" y="286" width="40" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-22" value="&lt;font color=&quot;#ff0000&quot;&gt;Ma. Daniela&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o Xavier&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="286" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0000FF;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="40" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-24" value="&lt;font color=&quot;#ff0000&quot;&gt;Ma. Daniela&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;o Xavier&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="760" y="7" width="30" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-26" value="Diana Silva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="8.5" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="30" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xLMZ__4eKcAPEfgz2nnN-28" value="Diana Silva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687" y="281.5" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
