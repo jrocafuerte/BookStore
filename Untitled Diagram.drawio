@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-09T21:39:30.462Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iIY9Ka200UJb07OgM7BP" version="24.6.4" type="github" pages="22">
+<mxfile modified="2024-07-09T21:47:48.825Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fSTZQIs31M18HmLdnRQh" version="24.6.4" type="github" pages="22">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6140,7 +6140,7 @@
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-59" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#457B9D;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="280" as="sourcePoint" />
+            <mxPoint x="-280" y="280" as="sourcePoint" />
             <mxPoint x="1200" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -6158,7 +6158,7 @@
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-64" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#457B9D;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="520" as="sourcePoint" />
+            <mxPoint x="-280" y="520" as="sourcePoint" />
             <mxPoint x="1200" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
