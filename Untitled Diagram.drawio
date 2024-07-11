@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-11T16:57:43.113Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1jQu8LQmfAXKf2AKxSxV" version="24.6.4" type="github" pages="22">
+<mxfile modified="2024-07-11T17:03:08.306Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XpsjSWKIdyTK6HwZcwC-" version="24.6.4" type="github" pages="22">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5930,7 +5930,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4WooAbh3XTVGfMLy9_RL" name="Evolución MVP TC">
-    <mxGraphModel dx="2570" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6199,7 +6199,7 @@
           <mxGeometry x="1484" y="519.3199999999999" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-84" value="&lt;font color=&quot;#1e3659&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Front End&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#1e3659&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Pantallas&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="470.32" width="170" height="60" as="geometry" />
+          <mxGeometry x="-490" y="488.32" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-85" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#1e3659&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;BFF&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#1e3659&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Servicios&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-497.2" y="856" width="170" height="60" as="geometry" />
@@ -6457,10 +6457,10 @@
           <mxGeometry x="-444" y="802.6" width="63.6" height="58.400000000000006" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-205" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Managed_Desktop.svg;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="-447" y="433.32" width="38.73" height="36" as="geometry" />
+          <mxGeometry x="-447" y="451.32" width="38.73" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-206" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="-390.4" y="435.32" width="18" height="30" as="geometry" />
+          <mxGeometry x="-390.4" y="453.32" width="18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-211" value="Personaliza&lt;div&gt;TC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="477" y="561.3199999999999" width="120" height="80" as="geometry" />
