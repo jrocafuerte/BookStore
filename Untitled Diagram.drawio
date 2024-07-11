@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-10T22:07:56.736Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6g9lcQlXl204qLwDCH-D" version="24.6.4" type="github" pages="22">
+<mxfile modified="2024-07-11T13:46:03.756Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IWs2o_rgESduPILOVWhA" version="24.6.4" type="github" pages="22">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6455,6 +6455,12 @@
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-204" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="-444" y="596.6" width="63.6" height="58.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ7uMh7pUq0ls1pw7D7t-205" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Managed_Desktop.svg;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="-447" y="333" width="38.73" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ7uMh7pUq0ls1pw7D7t-206" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="-390.4" y="335" width="18" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
