@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-11T17:03:08.306Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XpsjSWKIdyTK6HwZcwC-" version="24.6.4" type="github" pages="22">
+<mxfile modified="2024-07-11T17:43:12.686Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h6ncirJf4QkeUnJmSc1C" version="24.6.4" type="github" pages="22">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5930,7 +5930,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4WooAbh3XTVGfMLy9_RL" name="Evolución MVP TC">
-    <mxGraphModel dx="2226" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6211,7 +6211,7 @@
           <mxGeometry x="852" y="835" width="40" height="44" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-95" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;prefijo:&lt;/font&gt; &lt;/b&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;mpps-ms-onb-tarjeta-credito-bff-dev&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="727" width="284" height="19" as="geometry" />
+          <mxGeometry x="-284" y="722" width="284" height="19" as="geometry" />
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="wQ7uMh7pUq0ls1pw7D7t-104" target="wQ7uMh7pUq0ls1pw7D7t-144">
           <mxGeometry relative="1" as="geometry">
@@ -6230,8 +6230,8 @@
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-110" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#457B9D;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="1004" as="sourcePoint" />
-            <mxPoint x="2240" y="1004" as="targetPoint" />
+            <mxPoint x="-520" y="999" as="sourcePoint" />
+            <mxPoint x="2240" y="999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-111" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#457B9D;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
@@ -6440,8 +6440,8 @@
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-199" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#457B9D;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="1526" as="sourcePoint" />
-            <mxPoint x="2240" y="1526" as="targetPoint" />
+            <mxPoint x="-520" y="1519" as="sourcePoint" />
+            <mxPoint x="2240" y="1519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wQ7uMh7pUq0ls1pw7D7t-200" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#1e3659&quot;&gt;&lt;b&gt;&lt;u&gt;Dominio OnPremise&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#1e3659&quot;&gt;&lt;b&gt;&lt;u&gt;Servicios&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
