@@ -6653,14 +6653,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x-B7y1Sa4i9RJqJABz7O" name="Backoffice TC">
-    <mxGraphModel dx="1080" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DTQhycOlnp9lZHpy67h9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-1" target="DTQhycOlnp9lZHpy67h9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-1" value="Proceso de carga de preaprobado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTQhycOlnp9lZHpy67h9-1" value="&lt;b&gt;Proceso de carga de preaprobado&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTQhycOlnp9lZHpy67h9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-2" target="DTQhycOlnp9lZHpy67h9-5">
@@ -6693,13 +6693,13 @@
         <mxCell id="DTQhycOlnp9lZHpy67h9-11" value="Monitorea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-15" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTQhycOlnp9lZHpy67h9-15" value="&lt;b&gt;Fin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="770" y="110" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTQhycOlnp9lZHpy67h9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-18" target="DTQhycOlnp9lZHpy67h9-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-18" value="Backoffice de entrega de TC ONB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTQhycOlnp9lZHpy67h9-18" value="&lt;b&gt;Backoffice de entrega de TC ONB&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTQhycOlnp9lZHpy67h9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-20" target="DTQhycOlnp9lZHpy67h9-22">
@@ -6708,38 +6708,75 @@
         <mxCell id="DTQhycOlnp9lZHpy67h9-20" value="Persona preaprobada finaliza flujo ONB con éxito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="330" as="sourcePoint" />
-            <mxPoint x="300" y="389.9565217391306" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="390" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="DTQhycOlnp9lZHpy67h9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-22" target="DTQhycOlnp9lZHpy67h9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-22" target="Fy2fwBzuonYlvHYfnMiF-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DTQhycOlnp9lZHpy67h9-22" value="Credimatic crea la TC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="162" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTQhycOlnp9lZHpy67h9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-24" target="DTQhycOlnp9lZHpy67h9-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-24" value="Credimatic envía person a cardtech" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="DTQhycOlnp9lZHpy67h9-24" value="Credimatic envía &lt;b&gt;person&lt;/b&gt; a cardtech" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="312" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-26" target="DTQhycOlnp9lZHpy67h9-28">
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-26" target="Fy2fwBzuonYlvHYfnMiF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-26" value="Asociar preaprobados a campaña" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="DTQhycOlnp9lZHpy67h9-26" value="Cardtech imprime y separa las TC ONB de otras &lt;i&gt;&lt;b&gt;(campo oficina)&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-28" target="DTQhycOlnp9lZHpy67h9-29">
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-3" target="Fy2fwBzuonYlvHYfnMiF-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-3" value="Courier fast track retira la TC y ensobra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-18" target="Fy2fwBzuonYlvHYfnMiF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-28" value="Monitorea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-18" value="En Batch se genera nuevo reporte diario a custodia de las TC ONB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-29" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="290" width="50" height="60" as="geometry" />
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-20" target="Fy2fwBzuonYlvHYfnMiF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-20" value="Custodia envía archivo a courier fast track&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-24" target="Fy2fwBzuonYlvHYfnMiF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-24" value="Courier fast track entrega TC al cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-27" target="Fy2fwBzuonYlvHYfnMiF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-27" value="Courier fast track incluye las TC dentro del &lt;u&gt;&lt;b&gt;archivo actual para activación BATCH&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="518" y="470" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-29" target="Fy2fwBzuonYlvHYfnMiF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-29" value="Courier fast track remite el comprobante de recibido al Banco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-35" target="Fy2fwBzuonYlvHYfnMiF-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-35" value="¿Banco?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-39" value="&lt;b&gt;Fin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
