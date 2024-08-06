@@ -6653,7 +6653,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x-B7y1Sa4i9RJqJABz7O" name="Backoffice TC">
-    <mxGraphModel dx="1242" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6720,13 +6720,13 @@
         <mxCell id="DTQhycOlnp9lZHpy67h9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-24" target="DTQhycOlnp9lZHpy67h9-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-24" value="Credimatic envía &lt;b&gt;person&lt;/b&gt; a cardtech" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="DTQhycOlnp9lZHpy67h9-24" value="Credimatic envía &lt;b&gt;person&lt;/b&gt; a cardtech" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="312" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DTQhycOlnp9lZHpy67h9-26" target="Fy2fwBzuonYlvHYfnMiF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DTQhycOlnp9lZHpy67h9-26" value="Cardtech imprime y separa las TC ONB de otras &lt;i&gt;&lt;b&gt;(campo oficina)&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTQhycOlnp9lZHpy67h9-26" value="Cardtech imprime y separa las TC ONB de otras &lt;i&gt;&lt;b&gt;(campo oficina)&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="462" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-3" target="Fy2fwBzuonYlvHYfnMiF-24">
@@ -6742,7 +6742,7 @@
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-18" target="Fy2fwBzuonYlvHYfnMiF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fy2fwBzuonYlvHYfnMiF-18" value="En Batch se genera nuevo reporte diario a custodia de las TC ONB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-18" value="Se genera archivo actual e incluye las TC ONB con su respectiva marca." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-20" target="Fy2fwBzuonYlvHYfnMiF-24">
@@ -6772,11 +6772,11 @@
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fy2fwBzuonYlvHYfnMiF-35" target="Fy2fwBzuonYlvHYfnMiF-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fy2fwBzuonYlvHYfnMiF-35" value="¿Banco?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="Fy2fwBzuonYlvHYfnMiF-35" value="Banco hacen match con archivo de activación de courier y digitaliza (comprobante de recibido)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-39" value="&lt;b&gt;Fin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="50" height="60" as="geometry" />
+          <mxGeometry x="220" y="570" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy2fwBzuonYlvHYfnMiF-44" value="&lt;b&gt;Escenarios&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="30" y="640" width="120" height="80" as="geometry" />
