@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="26">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="27">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="SonarQube-Propuesta">
     <mxGraphModel dx="1032" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7051,7 +7051,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yU4EykSr4d0LAEknKvE2" name="Page-26">
-    <mxGraphModel dx="1722" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5210" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7446,6 +7446,14 @@
         <mxCell id="vjLzccrGRCYI2Qs9kgDp-112" value="&lt;ul&gt;&lt;li&gt;Modificar en management al momento de cargar los clientes para identificar su estado.&lt;/li&gt;&lt;li&gt;Modificar reporte para Grow para dividirlo en 2, clientes activos cargados, clientes inactivos cargados&lt;/li&gt;&lt;li&gt;Segregar la comunicación de Grow para que redirija correctamente a los clientes inactivos&amp;nbsp; (Mario)&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Validar con areas de control el comportamiento esperado previo a Desarrollar&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Validar con Areas de Control los otros estados cual seria el comportamiento.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Añadir validación al inicio del flujo considerando el estado si es cliente.&lt;/li&gt;&lt;li&gt;Validar que falta en el proceso de actualización de datos que se usa actualmente y agregarlo.&lt;/li&gt;&lt;li&gt;Validar con personas del MIS que procesos, tramas, Cubos, Marca de quien activa al cliente o consideraciones se debe tener cuando un cliente se activo.&lt;/li&gt;&lt;li&gt;Validar al final del flujo cuando se crea o se actualiza un usuario.&lt;/li&gt;&lt;li&gt;Pruebas de regresión del todo el flujo.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Documentos&lt;/li&gt;&lt;li&gt;Firma&lt;/li&gt;&lt;li&gt;Calculos de SF&lt;/li&gt;&lt;li&gt;Información grabada en el MIS&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Certificar con Areas de Control&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="700" width="600" height="360" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="66eXcGheZvdQ4b9rvw-j" name="Page-27">
+    <mxGraphModel dx="872" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
